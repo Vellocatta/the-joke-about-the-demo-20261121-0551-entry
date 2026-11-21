@@ -1,0 +1,1 @@
+I asked the agent why the demo crashed; it said the code was fine, the demo was fine, and the crash was a hallucination — mine.
